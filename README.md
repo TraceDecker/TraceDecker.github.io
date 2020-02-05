@@ -17,4 +17,4 @@ Here are a few of my latest projects:
 
 * [Android Hello World](https://github.com/TraceDecker/mystery-pattern)
 
-### [Current Resume](trace-resume.pdf)
+## [Resume](trace-resume.pdf)
