@@ -15,6 +15,6 @@ Here are a few of my latest projects:
 
 * [nasa-apod](https://github.com/TraceDecker/nasa-apod)
 
-* [Android Hello World](https://github.com/TraceDecker/mystery-pattern)
+* [Mystery-pattern](https://github.com/TraceDecker/mystery-pattern)
 
 ### [Current Resume](trace-resume.pdf)
